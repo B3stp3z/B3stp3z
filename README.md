@@ -4,17 +4,7 @@
 ![Shade's GitHub stats](https://github-readme-stats.vercel.app/api?username=b3stp3z&show_icons=true&theme=radical)
 
 
-<h2><b><i>Hola, it's B3stP3z🖐🙂</h2></b></i>
-<b><i>💻 I'm a Student & A python enthusiast</i></b>
 
-<h3><b><i>🍸 About :</i></b></h3>
-<li>I'm the queen in my domain</i></li>
-<li>I reside somewhere in NIGERIA💚🗺</i></li>
-<li>Born single💔</i></li>
-<li>Cybernetic's pride🥇</i></li>
-<li>Learning python🐍 </i></li>
-<li>Focused🐱‍👤</i></li>
-<li>Hatred for none🥰</i></li>
 
 
 
