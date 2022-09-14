@@ -1,7 +1,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b3stp3z)](https://github.com/b3stp3z/github-readme-stats)
 
 
-![Shade's GitHub stats](https://github-readme-stats.vercel.app/api?username=b3stp3z&show_icons=true&theme=blue)
+![Shade's GitHub stats](https://github-readme-stats.vercel.app/api?username=b3stp3z&show_icons=true&theme=radical)
 
 
 <h2><b><i>Hola, it's B3stP3z🖐🙂</h2></b></i>
