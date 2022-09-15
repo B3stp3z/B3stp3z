@@ -22,7 +22,7 @@
 <li>I reside somewhere in NIGERIA💚🗺</i></li>
 <li>Born single💔</i></li>
 <li>Cybernetic's pride🥇💖</i></li>
-<li>Learning python🐍 </i></li>
+<li>Python🐍 Enthusiast🦉 </i></li>
 <li>Focused🐱‍👤</i></li>
 <li>Hatred for none🥰</i></li>
 <h3><b><i>🌌🪐 Profile Statistics :</i></b></h3>
