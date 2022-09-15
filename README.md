@@ -14,7 +14,7 @@
 <a href="https://github.com/shade234sherif"><img width=550 src="https://github-profile-trophy.vercel.app/?username=b3stp3z&theme=dracula&no-frame=true&title=Stars,Commit,Repository"/></a>
 
 
-<h2><b><i>Hola, it's B3stP3z🖐🙂</h2></b></i>
+<h2><b><i>Hola a todos, it's B3stP3z🖐🙂</h2></b></i>
 <b><i>💻 I'm a Student & A python enthusiast</i></b>
 
 <h3><b><i>🍸 About :</i></b></h3>
