@@ -1,7 +1,7 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b3stp3z)](https://github.com/b3stp3z/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shade234sherif)](https://github.com/shade234sherif/github-readme-stats)
 
 
-![Shade's GitHub stats](https://github-readme-stats.vercel.app/api?username=b3stp3z&show_icons=true&theme=radical)
+![P3z's GitHub stats](https://github-readme-stats.vercel.app/api?username=b3stp3z&show_icons=true&theme=radical)
 
 
 
@@ -18,10 +18,10 @@
 <b><i>💻 I'm a Student & A python enthusiast</i></b>
 
 <h3><b><i>🍸 About :</i></b></h3>
-<li>I'm the queen in my domain</i></li>
+<li>I'm the queen👑 in my domain🌌</i></li>
 <li>I reside somewhere in NIGERIA💚🗺</i></li>
 <li>Born single💔</i></li>
-<li>Cybernetic's pride🥇</i></li>
+<li>Cybernetic's pride🥇💖</i></li>
 <li>Learning python🐍 </i></li>
 <li>Focused🐱‍👤</i></li>
 <li>Hatred for none🥰</i></li>
